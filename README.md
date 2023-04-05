@@ -1,4 +1,4 @@
 
-BiletulNr24
+BiletulNr.24
 
 Creati un nou repozitoriu pe GitHub , numit ExamenNume_pPrenume.Cloneaza acest repozitoriu pe calculatorul local.Adauga un fisier README.md care sa contina descrierea proiectului si numarul biletului . Adauga un fisier .gitignore care sa ignore toate fisierele cu extensia .log. Creaza o ramura noua numita "development".Adauga doua fisiere HTML in directoriu principal, numite "index.html" si "about.html". Impingeti modificarile la ramura "developement" pe GitHub. Creaza ramura noua numita "feature". Adauga un fisier CSS numit "style.css" in directorul "css". Creaza un comit pentru fiecare fisier si director adaugat. Impingeti modificarile la ramura "feature" pe GitHub. Concatenati ramura "feature" cu ramura "develo0pment".
